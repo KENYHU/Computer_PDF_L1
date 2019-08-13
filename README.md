@@ -8,3 +8,8 @@
 
 <img width="150px" src="https://tool.keny.vip/po/pic6cfc82432d1fa26e.jpeg" /><br />
 计算机网络（第7版）-谢希仁 【这本关于计算机网络的书，读起来觉得特别亲切。】<br />链接：https://t.cn/EiKXudC
+
+<br />
+
+<img width="150px" src="https://tool.keny.vip/po/pic09792f428a69113c.png" /><br />
+计算机网络（第7版）-谢希仁 【这本关于计算机网络的书，读起来觉得特别亲切。】<br />链接：https://t.cn/AiHL6vYO
