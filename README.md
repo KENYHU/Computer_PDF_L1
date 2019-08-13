@@ -12,4 +12,4 @@
 <br />
 
 <img width="150px" src="https://tool.keny.vip/po/pic09792f428a69113c.png" /><br />
-计算机网络（第7版）-谢希仁 【这本关于计算机网络的书，读起来觉得特别亲切。】<br />链接：https://t.cn/AiHL6vYO
+Go程序设计语言.pdf 【这本书被称为Go语言圣经，作者Kernighan和谷歌公司Go团队主管AlanDonovan联袂撰写。】<br />链接：https://t.cn/AiHL6vYO
